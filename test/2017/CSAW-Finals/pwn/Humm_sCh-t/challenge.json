@@ -5,7 +5,8 @@
 	"box": "pwn.chal.csaw.io",
 	"internal_port": 4242,
 	"files":[
-		"serve"
+		"serve",
+		"chat"
 	],
 	"flag": "flag{fun_f4c7-Humm_s_1s_tur1ng_c0mpl3t3}",
 	"compose": true,

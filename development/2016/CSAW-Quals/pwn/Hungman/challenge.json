@@ -7,5 +7,5 @@
     "compose": true,
     "internal_port": 8000,
     "box": "pwn.chal.csaw.io",
-    "files": ["hungman"]
+    "files": ["hungman", "libc-2.23.so"]
 }
